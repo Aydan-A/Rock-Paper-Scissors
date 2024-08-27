@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-
+# Rock-Paper-Scissors-This is a web-based Rock-Paper-Scissors game where you can play against a computer opponent. Click one of the buttons (Rock, Paper, or Scissors) to make your choice. The computer's choice will be displayed, and the result (win, lose, or tie) will be announced.
